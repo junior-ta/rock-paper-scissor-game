@@ -14,3 +14,5 @@ process:
         #using a method from the random module to generate a random opponent 
         #designing the game algorithm (making sure a tie adds an additional round)
     #Displaying the winner, YAY!!
+    #initializing the variables in case the player wanna play again
+    #asking the player if he is up for another game
