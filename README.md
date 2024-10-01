@@ -1,18 +1,16 @@
+![image](https://github.com/user-attachments/assets/7b3d3735-92ce-40a0-8bba-1da22cd486d1) 
+
 # rock-paper-scissor-game
 Practicing python by creating a rock-paper-scissor game
-
 Rationale: Designing a rock paper scissor game as complex as I can, putting into practice my pyhton skills
 
-process:
-    #creating a list of possible choices for the players
-    #saving the players name
-    #initializing both players' scores
-    #creating variables to monitor the number of rounds played(r) and the number of iterations(i) 
-    #iterating my while loop until i=0
-        #game design I guess? (^_^)
-        #prompting the user to pick an option and making sure a bad input doesn't break the game
-        #using a method from the random module to generate a random opponent 
-        #designing the game algorithm (making sure a tie adds an additional round)
-    #Displaying the winner, YAY!!
-    #initializing the variables in case the player wanna play again
-    #asking the player if he is up for another game
+This is a windows Rock Paper Scissor Shoe game coded in python with the use of the pygame and of the random libraries. 
+The home page is used to collect the player's name, then a classic 3 round rock paper scissor game is launched 
+
+Upcoming:
+    -PVP mode
+    -more animations
+    -Better interface 
+    -AI
+
+   ![image](https://github.com/user-attachments/assets/335151a1-c7e1-4499-83a3-c7c0ebd7783c)
