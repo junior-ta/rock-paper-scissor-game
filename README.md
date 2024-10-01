@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/7b3d3735-92ce-40a0-8bba-1da22cd486d1) 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/7b3d3735-92ce-40a0-8bba-1da22cd486d1" alt="description" width="500"/>
+</div>
 
 # rock-paper-scissor-game
 Practicing python by creating a rock-paper-scissor game
@@ -13,4 +15,6 @@ Upcoming:
     -Better interface 
     -AI
 
-   ![image](https://github.com/user-attachments/assets/335151a1-c7e1-4499-83a3-c7c0ebd7783c)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/335151a1-c7e1-4499-83a3-c7c0ebd7783c" alt="description" width="700"/>
+</div> 
