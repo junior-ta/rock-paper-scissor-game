@@ -3,11 +3,10 @@
 </div>
 
 # rock-paper-scissor-game
-Practicing python by creating a rock-paper-scissor game
 Rationale: Designing a rock paper scissor game as complex as I can, putting into practice my pyhton skills
 
-This is a windows Rock Paper Scissor Shoe game coded in python with the use of the pygame and of the random libraries. 
-The home page is used to collect the player's name, then a classic 3 round rock paper scissor game is launched 
+Developed an interactive Windows-based **Rock-Paper-Scissors** game in Python, utilizing the **pygame** and **random** libraries. 
+Implemented a user-friendly home screen for player name input, followed by a classic 3-round gameplay experience with visuals and real-time feedback.
 
 Upcoming:
     -PVP mode
