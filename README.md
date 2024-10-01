@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/7b3d3735-92ce-40a0-8bba-1da22cd486d1" alt="description" width="500"/>
+<img src="https://github.com/user-attachments/assets/7b3d3735-92ce-40a0-8bba-1da22cd486d1" alt="description" width="250"/>
 </div>
 
 # rock-paper-scissor-game
