@@ -9,10 +9,14 @@ Developed an interactive Windows-based **Rock-Paper-Scissors** game in Python, u
 Implemented a user-friendly home screen for player name input, followed by a classic 3-round gameplay experience with visuals and real-time feedback.
 
 Upcoming:
-    -PVP mode
-    -more animations
-    -Better interface 
-    -AI
+
+-PVP mode
+
+-more animations
+
+-Better interface 
+
+-AI
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/335151a1-c7e1-4499-83a3-c7c0ebd7783c" alt="description" width="700"/>
